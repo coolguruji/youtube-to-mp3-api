@@ -1,0 +1,19 @@
+{
+    "name": "coolguruji/youtube-to-mp3-api",
+    "type": "api",
+    "description": "youtube to mp3 api for webmasters",
+    "keywords": ["youtube to mp3","yt to mp3","youtube video to mp3 downloader","youtube mp3 downloader","youtube audio api","youtube converter"],
+    "homepage": "https://github.com/coolguruji/youtube-to-mp3-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coolguruji",
+            "email": "api@youtube6download.top",
+            "homepage": "http://api.youtube6download.top",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
